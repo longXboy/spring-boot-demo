@@ -15,6 +15,6 @@ public class LabsDemoApplication {
 
     @RequestMapping("")
     public String hello() {
-        return "Hello! My Docker!";
+        return "Hello! Docker!";
     }
 }
