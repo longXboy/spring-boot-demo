@@ -17,7 +17,7 @@ public class LabsDemoApplicationTests {
     @Test
     public void contextLoads() {
         String n = labsDemoApplication.hello();
-        Assert.assertTrue(n.equals("Hello! Ah ha My Docker!"));
+        Assert.assertTrue(n.equals("Hello! My Docker!"));
     }
 
 }
